@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "profileDetails": {
+    "name": "Shabudeen",
+    "age": "26",
+    "work": "ILM UX Pvt. Ltd"
   }
 }
